@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20852" started-at="2020-12-08T12:05:44Z" finished-at="2020-12-08T12:06:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20852" started-at="2020-12-08T12:05:44Z" finished-at="2020-12-08T12:06:05Z">
+      <class name="test.TestActitime">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:test.TestActitime@2a70a3d8]" name="openApp" is-config="true" duration-ms="17745" started-at="2020-12-08T12:05:44Z" finished-at="2020-12-08T12:06:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:test.TestActitime@2a70a3d8]" name="login" duration-ms="3065" started-at="2020-12-08T12:06:02Z" finished-at="2020-12-08T12:06:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:test.TestActitime@2a70a3d8]" name="closeApp" is-config="true" duration-ms="1" started-at="2020-12-08T12:06:05Z" finished-at="2020-12-08T12:06:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- test.TestActitime -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
